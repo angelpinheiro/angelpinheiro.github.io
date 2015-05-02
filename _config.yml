@@ -6,7 +6,7 @@
 name: Ángel Piñeiro Souto
 
 # Short bio or description (displayed in the header)
-description: Computer Science Engineer at <a href="https://citius.usc.es/">@CiTIUS</a>
+description: Computer Science Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/5940259?v=3
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: angelpinheiro
   instagram:
-  linkedin:
+  linkedin: angelpineirosouto
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: roispiper
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: 
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
